@@ -1,0 +1,57 @@
+
+.container{
+    height: 1430px;
+    width: 1000px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+.content{
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.first{
+    margin-top: -50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.first h4{
+    margin-bottom: -10px;
+    font-size: 70px;
+    font-weight: 600;
+    letter-spacing: 1.1px;
+    text-transform: uppercase;
+}
+.first p{
+    letter-spacing: 1.3px;
+    line-height: 15px;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: -10px;
+}
+p{
+    font-size: 17px;
+    line-height: 30px;
+}
+li{
+    font-size: 17px;
+    line-height: 30px;
+}
+h3{
+    font-size: 25px;
+    margin-bottom: -10px;
+}
+.fourth h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+section{
+    margin-bottom:  0px;
+}
+.fourth h4 i{
+    color: rgb(66, 63, 63);
+    
+}
